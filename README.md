@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BishopDavid7
 - 👀 I’m interested in DevOps Engineering and Cloud Computing specifically AWS Cloud, Google Cloud and Azure Cloud.
-- 🌱 I’m currently have +2years experience as a DevOps Engineering
+- 🌱 I currently have +2years experience as a DevOps Engineering
 - 💞️ I’m looking to collaborate on AWS DevOps Projects
 - 📫 How to reach me p.fonjock@gmail.com
 - 😄 Pronouns: Mr, he/him
