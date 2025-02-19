@@ -2,7 +2,7 @@
 
  👋 Hi there, I'm Bishop David!  
 
-I'm a DevOps Engineer** with over **2 years of experience in AWS, Google Cloud, and Azure. My expertise lies in automating cloud infrastructure, optimizing CI/CD pipelines, and implementing Infrastructure as Code (IaC) to ensure scalable, secure, and efficient deployments.
+I'm a DevOps Engineer with over 2 years of experience in AWS, Google Cloud, and Azure. My expertise lies in automating cloud infrastructure, optimizing CI/CD pipelines, and implementing Infrastructure as Code (IaC) to ensure scalable, secure, and efficient deployments.
 
  🚀 What I Do  
 - Cloud Computing ☁️ – AWS, Google Cloud, Azure  
