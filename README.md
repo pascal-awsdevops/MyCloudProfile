@@ -22,9 +22,7 @@ You can view my **Cloud Resume** hosted on AWS CloudFront here:
 ## 🤝 Let’s Connect  
 📧 **Email:** p.fonjock@gmail.com  
 📍 **Location:** Buea, Cameroon  
-
 🔗 **LinkedIn:[https://www.linkedin.com/in/pascal-cloud-devops]
-
 🐙 **GitHub:**[BishopDavid7](https://github.com/BishopDavid7)  
 
 I’m always open to collaborations on **DevOps projects** and passionate about learning and implementing the latest **cloud and automation technologies**! 🚀  
