@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a certified **AWS Cloud Practitioner** with over **2 years of hands-on remote project experience**, building secure, resilient, and scalable infrastructure using AWS Free Tier services.
+I'm a certified **AWS Cloud Practitioner** trainee with over **2 years of hands-on remote project experience**, building secure, resilient, and scalable infrastructure using AWS Free Tier services.
 
 🔧 My focus is on **Cloud Support**, **DevOps automation**, **CI/CD pipelines**, and **Infrastructure as Code**—leveraging modern tools like Terraform, Ansible, Docker, and GitHub Actions.
 
@@ -31,8 +31,6 @@ I'm a certified **AWS Cloud Practitioner** with over **2 years of hands-on remot
 ---
 
 ## 📂 Featured Projects
-
-Here are a few projects I’ve built using **AWS Free Tier**:
 
 ### 🌐 [VirtualSMSHub](https://github.com/BishopDavid7/VirtualSMSHub)
 > Cloud-based SMS Gateway platform with AWS Lambda, API Gateway & S3. Enables virtual number rental, international SMS, and REST API access.
@@ -72,10 +70,16 @@ Here are a few projects I’ve built using **AWS Free Tier**:
 
 ## 🏅 AWS Digital Badges
 
-[![AWS Educate: Cloud 101](https://images.credly.com/size/110x110/images/9b968b68-171f-4709-9a15-bc48343f6774/image.png)](https://www.credly.com/badges/9b968b68-171f-4709-9a15-bc48343f6774/public_url)
-[![AWS Educate: Compute 101](https://images.credly.com/size/110x110/images/fd66dc8e-d593-4bee-94d5-3f52673b0f40/image.png)](https://www.credly.com/badges/fd66dc8e-d593-4bee-94d5-3f52673b0f40/public_url)
-[![AWS Storage](https://images.credly.com/size/110x110/images/257025eb-8c67-413b-995e-5085a616af7c/image.png)](https://www.credly.com/badges/257025eb-8c67-413b-995e-5085a616af7c/public_url)
-[![AWS Networking](https://images.credly.com/size/110x110/images/88467db2-7184-45ef-accd-c69fd41d8b50/image.png)](https://www.credly.com/badges/88467db2-7184-45ef-accd-c69fd41d8b50/public_url)
+| Badge | Credential |
+|-------|------------|
+| ![Cloud 101](https://images.credly.com/size/110x110/images/9b968b68-171f-4709-9a15-bc48343f6774/image.png) | [AWS Educate: Introduction to Cloud 101](https://www.credly.com/badges/9b968b68-171f-4709-9a15-bc48343f6774/public_url) |
+| ![Compute 101](https://images.credly.com/size/110x110/images/fd66dc8e-d593-4bee-94d5-3f52673b0f40/image.png) | [AWS Educate: Introduction to Compute 101](https://www.credly.com/badges/fd66dc8e-d593-4bee-94d5-3f52673b0f40/public_url) |
+| ![Storage](https://images.credly.com/size/110x110/images/257025eb-8c67-413b-995e-5085a616af7c/image.png) | [AWS Educate: Getting Started with Storage](https://www.credly.com/badges/257025eb-8c67-413b-995e-5085a616af7c/public_url) |
+| ![Networking](https://images.credly.com/size/110x110/images/88467db2-7184-45ef-accd-c69fd41d8b50/image.png) | [AWS Educate: Getting Started with Networking](https://www.credly.com/badges/88467db2-7184-45ef-accd-c69fd41d8b50/public_url) |
+| ![Databases](https://images.credly.com/size/110x110/images/e22d7b84-7288-4bae-aa6b-6d67616159de/image.png) | [AWS Educate: Getting Started with Databases](https://www.credly.com/badges/e22d7b84-7288-4bae-aa6b-6d67616159de/public_url) |
+| ![Cloud Ops](https://images.credly.com/size/110x110/images/d33154f8-06a0-4855-b9c3-19d5e5cc5a84/image.png) | [AWS Educate: Getting Started with Cloud Ops](https://www.credly.com/badges/d33154f8-06a0-4855-b9c3-19d5e5cc5a84/public_url) |
+| ![Security](https://images.credly.com/size/110x110/images/41316b92-13d1-451b-89d8-d1bb05ef1c2c/image.png) | [AWS Educate: Getting Started with Security](https://www.credly.com/badges/41316b92-13d1-451b-89d8-d1bb05ef1c2c/public_url) |
+| ![Serverless](https://images.credly.com/size/110x110/images/e499399e-ae3e-4bb3-910b-cc7f3a8cac8e/image.png) | [AWS Educate: Getting Started with Serverless](https://www.credly.com/badges/e499399e-ae3e-4bb3-910b-cc7f3a8cac8e/public_url) |
 
 ---
 
@@ -89,4 +93,4 @@ Here are a few projects I’ve built using **AWS Free Tier**:
 ---
 
 **Thank you for visiting!** 🚀  
-*Feel free to star ⭐ my projects or reach out for collaboration.*
+*Feel free to ⭐ my repositories or reach out for collaboration!*
