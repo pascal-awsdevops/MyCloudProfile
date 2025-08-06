@@ -1,4 +1,4 @@
-# 🌐 Modular Online Resume – Pascal Esegemou Ekenya Fonjock
+# 🌐Cloud Engineer | DevOps Practitioner – Pascal Esegemou Ekenya Fonjock
 
 [![Pascal's GitHub Banner](https://i.postimg.cc/cHWf5zD2/product-337638-product-shot-wide.webp)](https://linkedin.com/in/pascal-cloud-devops)
 
