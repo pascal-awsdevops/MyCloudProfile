@@ -2,8 +2,8 @@
 
 [![Pascal's GitHub Banner](https://i.postimg.cc/cHWf5zD2/product-337638-product-shot-wide.webp)](https://linkedin.com/in/pascal-cloud-devops)
 
-🎯 Cloud & AI/ML Engineer | DevOps Automation | Multi-Cloud Solutions Architect 
-📍 Buea, Cameroon | 🌐 On-premis, Hybrid and Remote-Ready  
+🎯 **Cloud & AI/ML Engineer | DevOps Automation | Multi-Cloud Solutions Architect** 
+📍 Buea, Cameroon | 🌐 On-premises, Hybrid and Remote-Ready  
 📧 [p.fonjock@gmail.com](mailto:p.fonjock@gmail.com) | [pascaldavid.aws@gmail.com](mailto:pascaldavid.aws@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/pascal-cloud-devops) | 💻 [GitHub](https://github.com/BishopDavid7)
 
