@@ -89,6 +89,16 @@ I'm a **Cloud Engineer** with over 2 years of remote experience building secure,
 
 ---
 
+
+## 🧭 Explore More
+
+- 🌍 [Personal Website](https://pascal-awsdevops.com)  
+- 🏅 [Credly Badges](https://www.credly.com/users/pascal-esegemou-ekenya-fonjock)  
+- 📌 [Project Repos](https://github.com/BishopDavid7?tab=repositories)
+
+---
+
+
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -96,14 +106,6 @@ I'm a **Cloud Engineer** with over 2 years of remote experience building secure,
   <a href="https://x.com/FonjockPascal?t=V8uZa3zJcAr9Rs_kzbIgTA&s=09"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/pascal-cloud-devops"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
-
----
-
-## 🧭 Explore More
-
-- 🌍 [Personal Website](https://pascal-awsdevops.com)  
-- 🏅 [Credly Badges](https://www.credly.com/users/pascal-esegemou-ekenya-fonjock)  
-- 📌 [Project Repos](https://github.com/BishopDavid7?tab=repositories)
 
 ---
 
