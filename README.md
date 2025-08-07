@@ -1,4 +1,4 @@
-# 🌐Cloud Engineer | DevOps Practitioner – Pascal Esegemou Ekenya Fonjock
+🌍 Cloud & AI/ML Engineer | DevOps Automation | Multi-Cloud Solutions Architect – Pascal Esegemou Ekenya Fonjock
 
 [![Pascal's GitHub Banner](https://i.postimg.cc/cHWf5zD2/product-337638-product-shot-wide.webp)](https://linkedin.com/in/pascal-cloud-devops)
 
@@ -11,17 +11,27 @@
 
 # 👋 Hi, I'm Pascal Esegemou Ekenya Fonjock
 
-I'm a **Cloud Engineer** with over 2 years of remote experience building secure, scalable, and cost-optimized AWS solutions. I specialize in **DevOps automation**, **IaC**, and **CI/CD pipelines**, passionate about delivering real-world value through the cloud.
+I'm a Cloud & AI/ML Engineer | DevOps Automation | Multi-Cloud Solutions Architect with over 2 years experience, I specialize in designing, deploying, and managing secure, scalable, and cost-efficient cloud infrastructure across AWS, Google Cloud Platform (GCP), and Microsoft Azure. I’m passionate about using AI/ML, DevOps automation, and Infrastructure as Code (IaC) to solve real-world problems and accelerate innovation at scale.
 
-🔧 Areas of Focus:
-- Cloud Support & Troubleshooting  
-- CI/CD Pipelines & GitOps  
-- DevOps Automation & Monitoring  
-- Infrastructure as Code (IaC)
+🔧Core Competencies:
+•	Cloud Architecture (AWS, GCP, Azure)
+•	AI/ML Model Deployment on the Cloud (Amazon SageMaker, Vertex AI, Azure ML)
+•	CI/CD Pipelines & GitOps (GitHub Actions, GitLab CI/CD, Azure Pipelines)
+•	DevOps & Infrastructure Automation (Terraform, CloudFormation, Ansible)
+•	Monitoring & Observability (CloudWatch, Prometheus, Grafana, ELK Stack)
+•	Secure Identity & Access Management (IAM, SSO, Azure Active Directory)
+•	Serverless & Containerization (AWS Lambda, Google Cloud Run, Docker, Kubernetes)
+
+🤖 AI/ML Capabilities:
+•	Trained and deployed ML models using SageMaker, Vertex AI, and Azure ML Studio
+•	Built cloud-based pipelines for data preprocessing, model training, hyperparameter tuning, and inference APIs
+•	Integrated AI-powered services (e.g., Amazon Rekognition, Comprehend, Azure Cognitive Services, GCP Vision/NLP APIs) into production workloads
+•	Familiar with MLOps best practices and deployment strategies following MIT-licensed frameworks like MLflow, Kubeflow, and TensorFlow Serving
 
 🌍 Open to:
-- Entry-Level DevOps & Cloud Engineer Roles  
-- Open-source Cloud/DevOps Projects
+•	Entry-Level Cloud & DevOps Roles (Cloud Support, DevOps Engineer, MLOps Engineer)
+•	Open-source Cloud/AI/ML Projects
+•	MIT research collaborations or standard-aligned solutions
 
 ---
 
