@@ -6,6 +6,7 @@
 📍 Buea, Cameroon | 🌐 On-premises, Hybrid and Remote-Ready  
 📧 [p.fonjock@gmail.com](mailto:p.fonjock@gmail.com) | [pascaldavid.aws@gmail.com](mailto:pascaldavid.aws@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/pascal-cloud-devops) 
+
 ---
 
 # 👋 Hi, I'm Pascal Esegemou Ekenya Fonjock
