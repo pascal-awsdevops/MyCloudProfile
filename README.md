@@ -5,7 +5,7 @@
 🎯 **Cloud & AI/ML Engineer | DevOps Automation | Multi-Cloud Solutions Architect** 
 📍 Buea, Cameroon | 🌐 On-premises, Hybrid and Remote-Ready  
 📧 [p.fonjock@gmail.com](mailto:p.fonjock@gmail.com) | [pascaldavid.aws@gmail.com](mailto:pascaldavid.aws@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/pascal-cloud-devops) | 💻 [GitHub](https://github.com/BishopDavid7)
+🔗 [LinkedIn](https://www.linkedin.com/in/pascal-cloud-devops) | 💻 [GitHub]([https://github.com/BishopDavid7](https://github.com/pascal-awsdevops))
 
 ---
 
